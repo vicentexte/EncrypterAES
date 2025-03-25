@@ -1,4 +1,4 @@
-![CI](https://github.com/vicentexte/EncrypterAES/actions/workflows/test_encrypter.yml/badge.svg)   /  ![CI](https://github.com/vicentexte/EncrypterAES/actions/workflows/flake8.yml/badge.svg)
+![CI](https://github.com/vicentexte/EncrypterAES/actions/workflows/pytest_encrypter.yml/badge.svg)   /  ![CI](https://github.com/vicentexte/EncrypterAES/actions/workflows/flake_test.yml/badge.svg)
 
 # Pasos para utilizar AES encrypter
 El siguiente documento explica los pasos para poder utilizar el AES encrypter, instalar las dependencias y configurar el entorno virtual del proyecto.
