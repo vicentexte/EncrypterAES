@@ -14,4 +14,4 @@ jobs:
         python-version: ${{matrix.python-version}}
     - run: pip install -r requirements.txt
     - run: pip install flake8
-    - run: flake8 EncrypterAES/test_encrypter.py
+    - run: flake8 test_encrypter.py
